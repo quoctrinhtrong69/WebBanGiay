@@ -1,1 +1,19 @@
+<<<<<<< HEAD
 Giai quyet conflict(Edit master)
+=======
+Giai quyet conflict(Edit in Cart)
+>>>>>>> Cart				
+
+
+
+
+
+
+
+
+
+
+
+
+
+pp2  
