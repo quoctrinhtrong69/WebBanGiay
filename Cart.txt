@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Giai quyet conflict(Edit master)
 
+=======
+Giai quyet conflict(Edit Cart)
+>>>>>>> Cart
