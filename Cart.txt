@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-Giai quyet conflict(Edit in master)
-=======
-Giai quyet conflict(Edit in Carttt)
->>>>>>> Cart
+Giai quyet conflict(Edit in masterr)
+
