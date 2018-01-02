@@ -1,1 +1,2 @@
-Giai quyet conflict(Edit in masterr)
+<<<<<<< HEAD
+Giai quyet conflict(Edit)
